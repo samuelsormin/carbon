@@ -1,0 +1,109 @@
+@import "../../../assets/scss/_variables";
+
+header {
+  background-color:#fff;
+  display:flex;
+  width:100%;
+  padding:1.2rem 12rem;
+  box-shadow:0 2px 5px rgba(0,0,0,.1);
+  align-items:center;
+  box-sizing:border-box;
+  color:#666;
+}
+
+.header-logo {
+  margin-right:3.2rem;
+}
+
+.header-logo img {
+  width:16rem;
+}
+
+.header-search {
+  position:relative;
+  width:52rem;
+}
+
+.header-search input {
+  width:100%;
+  font-size:1.6rem;
+  padding:1rem 1.6rem;
+  padding-right:4rem;
+  border:0;
+  border-radius:5px;
+  background-color:$color-tertiary;
+  font-family:inherit;
+  color:#666;
+  box-sizing:border-box;
+}
+
+.header-search input::placeholder {
+  color:#bbb;
+}
+
+.header-search::after {
+  position:absolute;
+  font-family:'themify';
+  content: "\e610";
+  right:1.4rem;
+  top:1rem;
+  font-size:2.2rem;
+  color:#ccc;
+}
+
+.header-menu {
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+}
+
+.header-menu a {
+  padding:.6rem 1.2rem;
+  transition:all .3s;
+}
+
+.header-menu i {
+  font-size:2.4rem !important;
+}
+
+.header-menu a:hover {
+  color:$color-primary;
+}
+
+.menu-text {
+  border-left:1px solid #ddd;
+  margin-left:1rem;
+  padding-left:1rem;
+}
+
+.menu-text button {
+  margin-right:.8rem;
+  padding:.6rem 1.2rem;
+}
+
+.menu-text button:last-child {
+  margin-right:0;
+}
+
+.menu-text .btn-clear {
+  text-decoration:none;
+  transition:all .5s;
+}
+
+.menu-text .btn-clear:hover {
+  color:$color-primary;
+}
+
+.bordered {
+  background-color:$color-primary;
+  border:1px solid $color-primary;
+  border-radius:3px;
+  color:#fff;
+
+}
+
+.bordered:hover {
+  background-color:$color-primary-2;
+  border:1px solid $color-primary-2;
+  color:#fff !important;
+}

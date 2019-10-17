@@ -1,0 +1,58 @@
+@import "../../../assets/scss/_variables";
+
+.cart .wrapper {
+  margin-right:1.6rem;
+}
+.cart .wrapper:last-child {
+  margin-right:0;
+}
+
+.cart-image {
+  margin-right:1.6rem;
+  height:13rem;
+  border:1px solid #eee;
+  text-align:center;
+  padding:.6rem;
+  box-sizing:border-box;
+  overflow:hidden;
+}
+
+.cart-image img {
+  // width:100%;
+  height:100%;
+}
+
+.cart-quantity button {
+  background-color:#eee;
+  padding:1rem 1.1rem;
+  padding-bottom:.8rem;
+  border:0;
+  border-radius:50%;
+  font-size:1.8rem;
+  cursor:pointer;
+  transition:all .5s;
+}
+
+.cart-quantity button:hover {
+  background-color:#ddd;
+}
+
+.cart-quantity input {
+  width:48px;
+  text-align:center;
+  margin:0 1rem;
+  font-size:1.6rem;
+  border:0;
+  padding:.6rem;
+  border-bottom:1px solid #eee;
+}
+
+.cart .remove:Hover {
+  text-decoration:underline;
+  color:#e74c3c;
+  padding-bottom:.4rem;
+}
+
+.checkout {
+  margin-top:2.4rem;
+}
