@@ -19,10 +19,10 @@ class App extends Component {
         <Router>
           <Header />
           <Switch>
-            <Route path="/" exact component={Home} />
-            <Route path="/details/:id" exact component={Details} />
-            <Route path="/cart" exact component={Cart} />
-            <Route path="/checkout" exact component={Checkout} />
+            <Route path="carbon/" exact component={Home} />
+            <Route path="carbon/details/:id" exact component={Details} />
+            <Route path="carbon/cart" exact component={Cart} />
+            <Route path="carbon/checkout" exact component={Checkout} />
           </Switch>
           <Footer />
         </Router>
