@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/carbon/static/css/main.b4001af9.chunk.css",
+    "main.js": "/carbon/static/js/main.2041531f.chunk.js",
+    "main.js.map": "/carbon/static/js/main.2041531f.chunk.js.map",
+    "runtime~main.js": "/carbon/static/js/runtime~main.0d799092.js",
+    "runtime~main.js.map": "/carbon/static/js/runtime~main.0d799092.js.map",
+    "static/js/2.a3511e15.chunk.js": "/carbon/static/js/2.a3511e15.chunk.js",
+    "static/js/2.a3511e15.chunk.js.map": "/carbon/static/js/2.a3511e15.chunk.js.map",
+    "index.html": "/carbon/index.html",
+    "precache-manifest.2cda46a6d26b7a5dfad3f17db96adb12.js": "/carbon/precache-manifest.2cda46a6d26b7a5dfad3f17db96adb12.js",
+    "service-worker.js": "/carbon/service-worker.js",
+    "static/css/main.b4001af9.chunk.css.map": "/carbon/static/css/main.b4001af9.chunk.css.map",
+    "static/media/back-to-school-slide.png": "/carbon/static/media/back-to-school-slide.167c61cc.png",
+    "static/media/buku1.jpg": "/carbon/static/media/buku1.8c9caf9c.jpg",
+    "static/media/buku2.jpg": "/carbon/static/media/buku2.0056e3ab.jpg",
+    "static/media/buku3.jpg": "/carbon/static/media/buku3.d4fd7b94.jpg",
+    "static/media/buku4.jpg": "/carbon/static/media/buku4.ae3b4ee2.jpg",
+    "static/media/bukukecil1.jpg": "/carbon/static/media/bukukecil1.2061076b.jpg",
+    "static/media/bukukecil2.jpg": "/carbon/static/media/bukukecil2.ce64dad5.jpg",
+    "static/media/bukukecil3.jpg": "/carbon/static/media/bukukecil3.af2b6cc4.jpg",
+    "static/media/bukukecil4.jpg": "/carbon/static/media/bukukecil4.c084c11c.jpg",
+    "static/media/bukukecil5.jpg": "/carbon/static/media/bukukecil5.c2c1a1b6.jpg",
+    "static/media/bukukecil6.jpg": "/carbon/static/media/bukukecil6.6feb5397.jpg",
+    "static/media/bukukecil7.jpg": "/carbon/static/media/bukukecil7.ea65037b.jpg",
+    "static/media/bukukecil8.jpg": "/carbon/static/media/bukukecil8.1558ae40.jpg",
+    "static/media/new-books.png": "/carbon/static/media/new-books.b161a208.png",
+    "static/media/popular-books.png": "/carbon/static/media/popular-books.3e5a2803.png",
+    "static/media/themify-icons.css": "/carbon/static/media/themify.e23a7dca.ttf"
+  }
+}
